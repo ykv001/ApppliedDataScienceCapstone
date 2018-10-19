@@ -5,7 +5,7 @@
 This repository contains jupyter notebooks and related material used for the final project of the IBM Data Science Professional Certificate on Coursera.
 
 
-You can also de the notebooks on [Jupyter nbviewer](https://nbviewer.jupyter.org/) if the maps or images don't appear:
+You can also see the notebooks on [Jupyter nbviewer](https://nbviewer.jupyter.org/) if the maps or images don't appear:
 
 
 [Starter notebook](https://nbviewer.jupyter.org/github/ykv001/ApppliedDataScienceCapstone/blob/master/Applied%20Data%20Science%20Capstone.ipynb)
